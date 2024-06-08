@@ -17,7 +17,7 @@
   Ferramentas e Bibliotecas: Pandas, NumPy, Scikit-Learn, TensorFlow, Keras, Tableau, Power BI
   Outros: Git, Docker
   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="height: 50px; width: 50px;"/>
           
   🌐 Conecte-se Comigo:
   
