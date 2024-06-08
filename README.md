@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -16,9 +16,9 @@
   Linguagens de Programação: Python, SQL
   Ferramentas e Bibliotecas: Pandas, NumPy, Scikit-Learn, TensorFlow, Keras, Tableau, Power BI
   Outros: Git, Docker
-
-  <i class="devicon-python-plain"></i>
-
+  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+          
   🌐 Conecte-se Comigo:
   
   LinkedIn
