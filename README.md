@@ -1,4 +1,4 @@
-📊 Guilherme Stefano - Cientista de Dados
+📊 <h1> Guilherme Stefano - Cientista de Dados <h1/>
 
 🚀 Apaixonado por transformar dados em decisões estratégicas e insights acionáveis.
 
