@@ -4,17 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> 
-    <style>
-        .image-container {
-            display: flex;
-            flex-wrap: wrap; /* Se você quiser que as imagens continuem na próxima linha quando não houver espaço */
-            gap: 10px; /* Espaçamento entre as imagens */
-        }
-        .image-container img {
-            height: 40px;
-            width: 40px;
-        }
-    </style>
 </head>
 <body>
   <h1>📊 Guilherme Stefano - Cientista de Dados </h1>
@@ -45,10 +34,14 @@
 
 </body>
 <style>
-    img{
-
-        
-        }
+    .image-container {
+        display: flex;
+        flex-wrap: wrap; /* Se você quiser que as imagens continuem na próxima linha quando não houver espaço */
+        gap: 10px; /* Espaçamento entre as imagens */
+    }
+    .image-container img {
+        height: 40px;
+        width: 40px;
+    }
 </style>
-
 </html>
