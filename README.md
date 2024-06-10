@@ -17,6 +17,7 @@ Quer conhecer mais sobre? Veja meus repositórios, estou à disposição para co
   <h2>Tecnologias e ferramentas</h2>
   <div>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="height: 40px; width: 40px;"/> &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"style="height: 40px; width: 40px;"/> &nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" style="height: 40px; width: 40px;"/> &nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" style="height: 40px; width: 40px;"/> &nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" style="height: 40px; width: 40px;"/> &nbsp;
@@ -28,6 +29,7 @@ Quer conhecer mais sobre? Veja meus repositórios, estou à disposição para co
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" style="height: 40px; width: 40px;"/> &nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" style="height: 40px; width: 40px;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" style="height: 40px; width: 40px;"/> &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="height: 40px; width: 40px;" />      
     </div>
           
   <h2>🌐 Conecte-se Comigo:</h2>
